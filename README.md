@@ -7,7 +7,7 @@ https://dev-connector-rm101.herokuapp.com/
 ### Installation
 1. Clone repository
 ```sh 
-git clone git@github.com:iamr-kumar/Dev-Connector.git 
+git clone
 ```
 2. Install dependencies in root directory
 ```sh 
