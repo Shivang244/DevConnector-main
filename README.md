@@ -1,4 +1,4 @@
-# Lancer-Connect
+# DevConnector
 A social media webiste for developers
 
 ### Link for live demo
